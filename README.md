@@ -2,15 +2,7 @@
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-## Installation
-
-Öncelikle projeyi clonelayın.
-
-'''
-
-git clone **# Kodluyoruz Ilk Repo**
-
-Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+![Ilk Repo](/Users/yilmaz/Downloads)
 
 **## Installation**
 
