@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End eğitiminde oluşturduğ
 
 ![Ilk Repo](/Users/yilmaz/Downloads)
 
-**## Installation**
+## Installation
 
 Öncelikle projeyi clonelayın.
 
